@@ -30,8 +30,8 @@ A  394 CC3  N18 A  213 ALA  O
 
 Future Work
 -----------
-[] H-bonds to aromatic rings
-[] Tautomers of residues
-[] Tautomers of ligands
-[] Flip possibly mis-assigned residues
-[] Factor out common code between the two scripts
+- [ ] H-bonds to aromatic rings
+- [ ] Tautomers of residues
+- [ ] Tautomers of ligands
+- [ ] Flip possibly mis-assigned residues
+- [ ] Factor out common code between the two scripts
